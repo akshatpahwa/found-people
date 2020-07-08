@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213956339436",
+    "firebase_url": "https://found-people.firebaseio.com",
+    "project_id": "found-people",
+    "storage_bucket": "found-people.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213956339436:android:90a17de393f1546436e7c9",
+        "android_client_info": {
+          "package_name": "com.example.foundpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213956339436-cmk4d5357notnuhg2prvt830o17ekvjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foundpeople",
+            "certificate_hash": "bb3aba8f8f177e851ebcae7131841e7e6931648c"
+          }
+        },
+        {
+          "client_id": "213956339436-uh8op8tps83tuh8j499ajqg7gap24d3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqyVfBQJPymhHXHa_ty_MfdayumE5InhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213956339436-uh8op8tps83tuh8j499ajqg7gap24d3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

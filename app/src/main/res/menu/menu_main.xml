@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.project.MainActivity">
+    <item
+        android:id="@+id/feedback"
+        android:orderInCategory="100"
+        android:title="Feedback"
+        app:showAsAction="never"
+        
+        />
+    <item
+        android:id="@+id/Support"
+        android:orderInCategory="100"
+        android:title="Support"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Contact_us"
+        android:orderInCategory="100"
+        android:title="Contact us"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/About"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="never" />
+</menu>
